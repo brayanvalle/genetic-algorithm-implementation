@@ -1,10 +1,9 @@
 # genetic-algorithm-implementation
 
-Genetic algorithm implementation to optimize a function.
+Genetic algorithm implementation to solve the Infinite Monkey Theorem 
 
-This GA is to find the  value of *x* that maximize the function 
+https://es.wikipedia.org/wiki/Teorema_del_mono_infinito
 
-$$
-X^2 - 3X + 4
-$$
+This problem is bases on this book https://natureofcode.com/book/chapter-9-the-evolution-of-code/
 
+Implemented for the ARTIFICIAL INTELIGENCE course POLI JIC 2020
